@@ -1,7 +1,7 @@
 # GPUMAGIC
- - A C++ Nix AMD Graphics Card Control Server And Client
+ - A C++ Nix AMD Graphics Card Client/Server Control For High Performance Computing In Hyperscalable Datacenter Computational Clusters.
  - Author: DominiLux
- - License: Undecided - Please feel free to suggest a license type prior to me releasing the code.  I know I don't want to use a GPL.  I am leaning for either BSD, APACHE 2.0, OR MIT.  I'll have to study the more to see which is more popular amongst orginizations needing this software.
+ - License: Apache Version 2.0
 
 # Features
  - Below is a list of features for each portion of the project.  The portions are broken down into the Daemon, Server, and Client
@@ -37,3 +37,11 @@
 
 # Installation
  - Currently being tested and debugged.  Also I am writing all nesscerry documentation for it.  Once this phase is done I will upload the completed version of the project as the master branch and split off a development branch for adding new features and other experiminitation.  Please feel free to leave comments or feature requests while I work towards a publishable version. 
+ 
+# Copyright 2017 Michael Jenkins
+
+ - Licensed under the Apache License, Version 2.0 (the "License");  you may not use this file except in compliance with the License.  You may obtain a copy of the License at
+
+ - http://www.apache.org/licenses/LICENSE-2.0
+
+ - Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
